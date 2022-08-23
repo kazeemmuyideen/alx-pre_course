@@ -1,0 +1,5 @@
+The git command I use are
+git status
+git checkout ~branch name~
+git push
+git pull
